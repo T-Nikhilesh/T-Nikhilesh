@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhilesh</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="Coding" width="300" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-nikhilesh&label=Profile%20views&color=0e75b6&style=flat" alt="t-nikhilesh" /> </p>
 
