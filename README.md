@@ -60,8 +60,11 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-nikhilesh&show_icons=true&locale=en&layout=compact" alt="t-nikhilesh" width="300" height="200"/></p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-nikhilesh&show_icons=true&locale=en&layout=compact" alt="t-nikhilesh" width="400" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=t-nikhilesh&show_icons=true&locale=en" alt="t-nikhilesh" width="400" height="200"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=t-nikhilesh&show_icons=true&locale=en" alt="t-nikhilesh" width="500" height="200"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-nikhilesh" alt="t-nikhilesh" width="500" height="200"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-nikhilesh" alt="t-nikhilesh" width="500" height="200"/>
+</p>
