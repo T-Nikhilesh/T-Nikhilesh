@@ -55,6 +55,9 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+  <a href="https://www.microsoft.com/en-in" target="_blank" rel="noreferrer"> 
+    <img src="https://static.javatpoint.com/computer/images/windows.png" alt="windows" width="40" height="40"/> 
+  </a> 
   <p>Cloud Technologies:</p>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
